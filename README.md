@@ -7,7 +7,7 @@ Student,Aspiring fullstack developer
 I am a tech enthusiast with a strong passion for becoming a full-stack developer. Currently, I am pursuing studies in a computer science related field at the university. While I began coding three years ago, my journey initially involved navigating various challenges; however, with unwavering passion and persistence, I have made significant progress. I am now confident in my abilities and excited about turning my dream of becoming a successful full-stack developer into a reality. I am eager to continue learning and growing in the field of technology.
 
 * 🌍  I'm based in Accra-Ghana
-* ✉️  You can contact me at [emmsom506@gamil.com](mailto:emmsom506@gamil.com)
+* ✉️  You can contact me at [emmsom506@gamil.com](mailto:theduo34@gamil.com)
 * 🚀  I'm currently working on [Dentist App in Java](http://https://github.com/theduo34/we-dens.git)
 * 🧠  I'm learning Spring Boot
 * 🤝  I'm open to collaborating on projects using stack like Java,JavaScript, CSS,HTML.
