@@ -40,6 +40,10 @@
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://www.x.com/theduo_34)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://www.github.com/theduo34)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat-square&logo=instagram&logoColor=white)](http://www.instagram.com/theduo_34)
+[![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@tHEDUO34)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/tHEDUo_34)
+
+
 
 ## 🌟 Projects
 - [Dentist App in Java](https://github.com/theduo34/we-dens): A comprehensive app for dental management.
