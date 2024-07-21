@@ -1,12 +1,21 @@
-# Hi there, I'm Emmanuel Somuah!
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Welcome Image" />
+</a>
 
-## About Me
-- 👨‍💻 I’m currently working on [Job Search Platform](https://github.com/theduo34/kofcity-job-center-ui)
-- 🌱 I’m currently learning redux/toolkit
-- 👯 I’m looking to collaborate on projects using stack like Java,React, Angular, Figma
-- 💬 Ask me about tech 
-- 📫 How to reach me: [emmsom506@gmail.com](mailto:emmsom506@gmail.com)
-- ⚡ Fun fact: Research junkie and early adopter - always on the lookout for the next big update or innovation to implement! 
+<h1 align="center">🌟 Hello, I'm Emmanuel Somuah!</h1>
+<h3 align="center">Turning Dreams into Code 💻</h3>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech_Enthusiast-20232A?style=flat&logo=typescript&logoColor=007ACC" alt="Tech Enthusiast Badge" />
+  <img src="https://img.shields.io/badge/Fullstack_Developer-20232A?style=flat&logo=react&logoColor=61DAFB" alt="Fullstack Developer Badge" />
+  <img src="https://img.shields.io/badge/Passionate_Learner-20232A?style=flat&logo=python&logoColor=306998" alt="Passionate Learner Badge" />
+</p>
+
+<p align="center">
+  I'm a passionate developer who loves creating solutions with code. From learning new technologies to building full-stack applications, I'm constantly exploring and growing. Let's connect and collaborate!
+</p>
 
 ## 🚀 Skills
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
@@ -35,7 +44,7 @@
 ## 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theduo34&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true)
 
-## 📫 Connect with Me
+## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somuah-emmanuel-66111a1b9)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://www.x.com/theduo_34)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://www.github.com/theduo34)
@@ -49,6 +58,17 @@
 - [Dentist App in Java](https://github.com/theduo34/we-dens): A comprehensive app for dental management.
 - [Job Search Engine in React](https://github.com/theduo34/kofcity-job-center-ui): A digital marketplace for recruiters and job seekers to connect)
 
+## 📜 About Me
+- 👨‍💻 I’m currently working on [Job Search Platform](https://github.com/theduo34/kofcity-job-center-ui).
+- 🌱 I’m currently learning Redux Toolkit to enhance state management in my applications.
+- 👯 I’m looking to collaborate on projects using stacks like Java, React, Angular, and Figma.
+- 💬 Ask me about anything tech-related; I'm always excited to share knowledge and insights.
+- ⚡ Fun fact: I'm a research junkie and an early adopter, always on the lookout for the next big update or innovation to implement!
+
+
 ## 💖 Support Me
 If you like what I do, maybe consider buying me a coffee?  
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-yellow?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.linkedin.com/in/somuah-emmanuel-66111a1b9)
+
+
+Thank you for visiting my profile! 😊
