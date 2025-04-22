@@ -75,14 +75,12 @@ const profileMe: ProfileMeInterface = {
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: left; gap: 10px;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=theduo34&show_icons=true&hide=issues&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" 
-    style="width: 100%; max-width: 500px;" 
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=theduo34&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" 
-    style="width: 100%; max-width: 500px;" 
   />
 </div>
 
