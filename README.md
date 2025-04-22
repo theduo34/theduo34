@@ -36,22 +36,6 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" style="margin-right: 8px;" />
   <img src="https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white" style="margin-right: 8px;" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" style="margin-right: 8px;" />
-
-[//]: # (  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" style="margin-right: 8px;" />)
-
-[//]: # (  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" style="margin-right: 8px;" />)
-
-[//]: # (  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" style="margin-right: 8px;" />)
-
-[//]: # (  <img src="https://img.shields.io/badge/-Jest-15C213?style=flat&logo=jest&logoColor=white" style="margin-right: 8px;" />)
-
-[//]: # (  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" style="margin-right: 8px;" />)
-
-[//]: # (  <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" style="margin-right: 8px;" />)
-
-[//]: # (  <img src="https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white" style="margin-right: 8px;" />)
-
-[//]: # (  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" style="margin-right: 8px;" />)
 </p>
 
 
