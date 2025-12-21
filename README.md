@@ -2,74 +2,45 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Welcome Banner" />
 </a>
 
-<h1 align="center">Hey there 👋, I'm Emmanuel Somuah</h1>
-<h3 align="center">💡 Fullstack Developer | Code Craftsman | Dream Builder</h3>
+<!-- Animated Intro -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&color=00BFA6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B,+I'm+Emmanuel+Somuah;Full-Stack+Developer;NextJs+%7C+React+Native+%7C+Expo;Java+%7C+Spring+Boot+%7C+PostgreSQL+%26+Postman;Welcome+to+my+GitHub+Profile!"
+    alt="Typing SVG"
+  />
+</p>
+
+<h3 align="center">🚀 Full-Stack Developer | Code Craftsman | Dream Builder </h3>
+
+[//]: # (<p align="center">)
+
+[//]: # (  <img src="https://komarev.com/ghpvc/?username=theduo34&label=Profile%20views&color=blue&style=for-the-badge&abbreviated=true" alt="Profile Views" />)
+
+[//]: # (</p>)
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Tech_Enthusiast-20232A?style=flat&logo=typescript&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/Fullstack_Developer-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Problem_Solver-20232A?style=flat&logo=python&logoColor=306998" />
-</p>
-
-<p align="center">
-  From transforming ideas into powerful web applications to building solutions that matter.I turn dreams into deployable code. I'm driven by clean UI, smart backend architecture, and a hunger for solving real-world problems with technology.
-</p>
-
----
 
 ## ⚙️ Tech Toolbox
 
 <p>
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white" style="margin-right: 8px;" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" style="margin-right: 8px;" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" style="margin-right: 8px;" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" style="margin-right: 8px;" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" style="margin-right: 8px;" />
-  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" style="margin-right: 8px;" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" style="margin-right: 8px;" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" style="margin-right: 8px;" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" style="margin-right: 8px;" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" style="margin-right: 8px;" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" style="margin-right: 8px;" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" style="margin-right: 8px;" />
-  <img src="https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white" style="margin-right: 8px;" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" style="margin-right: 8px;" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 </p>
-
-
----
-
-### 🧠 Who Am I?
-
-```ts
-interface ProfileMeInterface {
-  name:string;
-  email?: string;
-  title: string;
-  alias: string;
-  currentProject: string;
-  currentlyLearning: string[];
-  funFact: string
-}
-
-const profileMe: ProfileMeInterface = {
-  name: "Emmanuel Somuah",
-  title: "Fullstack Developer",
-  alias: "TheDuo34",
-  currentProject: "Xolace - A Social media platform",
-  currentlyLearning: ["Spring Boot", "Cloud Services"],
-  funFact: "I spend more time researching new stacks than sleeping.⚡",
-};
-```
----
-
-## 🚀 Highlight Projects
-
-- 🎯 [**Xolace**](https://www.xolace.app) – A modern social media platform for real connection and expression. *(Currently building)*
-- 🦷 [**Dentist App (Java)**](https://github.com/theduo34/we-dens) – A powerful desktop application for dental clinic management.
-- 💼 [**KofCity Job Center**](https://github.com/theduo34/kofcity-job-center-ui) – A React-based job search engine connecting employers and job seekers.
 
 ---
 
@@ -90,11 +61,8 @@ const profileMe: ProfileMeInterface = {
 
 <p>
   <a href="https://www.linkedin.com/in/somuah-emmanuel-66111a1b9"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.x.com/theduo_34"><img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.github.com/theduo34"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="http://www.instagram.com/theduo_34"><img src="https://img.shields.io/badge/Instagram-pink?style=flat-square&logo=instagram&logoColor=white" /></a>
   <a href="https://medium.com/@tHEDUO34"><img src="https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white" /></a>
-  <a href="https://t.me/tHEDUo_34"><img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
