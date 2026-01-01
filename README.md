@@ -5,12 +5,12 @@
 <!-- Animated Intro -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&color=00BFA6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B,+I'm+Emmanuel+Somuah;Full-Stack+Developer;NextJs+%7C+React+Native+%7C+Expo;Java+%7C+Spring+Boot+%7C+PostgreSQL+%26+Postman;Welcome+to+my+GitHub+Profile!"
+    src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&color=00BFA6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B,+I'm+Emmanuel+Somuah;Frontend-Heavy +Full-Stack+Developer;React+%7C+NextJs+%7C+React+Native+%7C+Expo;Java+%7C+Spring+Boot+%7C+PostgreSQL+%26+Postman;Welcome+to+my+GitHub+Profile!"
     alt="Typing SVG"
   />
 </p>
 
-<h3 align="center">🚀 Full-Stack Developer | Code Craftsman | Dream Builder </h3>
+<h3 align="center">🚀 Frontend-Heavy Full-Stack Developer | Code Craftsman | Dream Builder </h3>
 
 [//]: # (<p align="center">)
 
@@ -21,25 +21,25 @@
 ---
 
 
-## ⚙️ Tech Toolbox
+## ⚙️ What I Work With
 
-<p>
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
@@ -59,15 +59,21 @@
 
 ## 🌐 Connect with Me
 
-<p>
-  <a href="https://www.linkedin.com/in/somuah-emmanuel-66111a1b9"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="http://www.instagram.com/theduo_34"><img src="https://img.shields.io/badge/Instagram-pink?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="https://medium.com/@tHEDUO34"><img src="https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white" /></a>
+<p align="start">
+  <a href="https://www.linkedin.com/in/somuah-emmanuel-66111a1b9" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="margin: 0 10px;" />
+  </a>
+  <a href="https://www.instagram.com/theduo_34" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" style="margin: 0 10px;" />
+  </a>
+  <a href="https://medium.com/@tHEDUO34" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="40" width="40" style="margin: 0 10px; background-color: white; border-radius: 5px; padding: 2px;" />
+  </a>
 </p>
 
 ---
 
 <p align="center" style="font-style: italic;">
-  👨🏾‍💻 TheDuo You’ll Always Want on Your Team © 2025
+  👨🏾‍💻 TheDuo You'll Always Want on Your Team © 2025
 </p>
 

@@ -1,0 +1,43 @@
+name: Update Copyright Year
+
+on:
+  schedule:
+    # Runs at 00:00 UTC on January 1st every year
+    - cron: '0 0 1 1 *'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  update-year:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Get current year
+        id: year
+        run: echo "CURRENT_YEAR=$(date +%Y)" >> $GITHUB_OUTPUT
+
+      - name: Update README with current year
+        run: |
+          # Replace © followed by 4 digits with © and current year
+          sed -i 's/© [0-9]\{4\}/© ${{ steps.year.outputs.CURRENT_YEAR }}/g' README.md
+
+      - name: Check if there are changes
+        id: changes
+        run: |
+          git diff --quiet README.md || echo "CHANGES=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push changes
+        if: steps.changes.outputs.CHANGES == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "🗓️ Update copyright year to ${{ steps.year.outputs.CURRENT_YEAR }}"
+          git push
