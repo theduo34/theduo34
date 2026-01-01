@@ -74,6 +74,6 @@
 ---
 
 <p align="center" style="font-style: italic;">
-  👨🏾‍💻 TheDuo You'll Always Want on Your Team © 2025
+  👨🏾‍💻 TheDuo You'll Always Want on Your Team © 2026
 </p>
 
