@@ -12,11 +12,11 @@
 
 <h3 align="center">🚀 Frontend-Heavy Full-Stack Developer | Code Craftsman | Dream Builder </h3>
 
-[//]: # (<p align="center">)
+<p align="center">
 
-[//]: # (  <img src="https://komarev.com/ghpvc/?username=theduo34&label=Profile%20views&color=blue&style=for-the-badge&abbreviated=true" alt="Profile Views" />)
+  <img src="https://komarev.com/ghpvc/?username=theduo34&label=Profile%20views&color=0891b2&style=for-the-badge" alt="Profile Views" />
 
-[//]: # (</p>)
+</p>
 
 ---
 
