@@ -63,11 +63,11 @@
   <a href="https://www.linkedin.com/in/somuah-emmanuel-66111a1b9" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="margin: 0 10px;" />
   </a>
-  <a href="https://www.instagram.com/theduo_34" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" style="margin: 0 10px;" />
+  <a href="https://www.instagram.com/itsquasi" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" style="margin: 0 14px;" />
   </a>
   <a href="https://medium.com/@tHEDUO34" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="40" width="40" style="margin: 0 10px; background-color: white; border-radius: 5px; padding: 2px;" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="40" width="40" style="margin: 0 14px; background-color: white; border-radius: 5px; padding: 2px;" />
   </a>
 </p>
 
