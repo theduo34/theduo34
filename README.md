@@ -53,7 +53,7 @@
 
 
 ### 📊 &nbsp;TOP LANGUAGES
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theduo34&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true)
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theduo34&langs_count=8&card_width=800&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&border_radius=10" alt="Top Languages" />
 
 <br>
 
@@ -64,7 +64,7 @@
 
 ### 🚀 &nbsp;FEATURED PROJECTS
 
-- 🧠 **[Xolace](https://emmanuel-somuah.vercel.app/)** - anonymity-first mental-health app (iOS &amp; Android) helping people name feelings they can't yet put into words. `React Native` `TypeScript` `.....`
+- 🧠 **[Xolace](https://xolaceinc.com)** - anonymity-first mental-health app (iOS &amp; Android) helping people name feelings they can't yet put into words. `React Native` `TypeScript` `.....`
 - 🚦 **MoveIQ** - crowdsourced commute app covering Lagos *danfo*/BRT &amp; expressway routes big map apps miss. `React Native` `Expo`, `ExpressJS`'
 - 🎓 **KTU SRC App** - one direct channel connecting the Student Representative Council with the student body. `React Native`, `....`
 - 🛒 **E-commerce REST API** - full shopping backend with products, carts, orders &amp; secure auth. `Java` `Spring Boot` `PostgreSQL`, `Stripe`
@@ -81,7 +81,7 @@
 
 ### ✨ &nbsp;A BIT MORE ABOUT ME
 
-- 👨‍💻 Co-Founder &amp; Lead Engineer @ [Xolace](https://emmanuel-somuah.vercel.app/), building a mental-health platform from the ground up
+- 👨‍💻 Co-Founder &amp; Lead Engineer @ [Xolace](https://xolaceinc.com), building a mental-health platform from the ground up
 
 - 👯 I'm looking to collaborate on mobile apps with real social impact - React Native, Expo, Next.js, Spring Boot
 
