@@ -62,34 +62,15 @@
 
 <br>
 
-### 🚀 &nbsp;FEATURED PROJECTS
-
-- 🧠 **[Xolace](https://xolaceinc.com)** - anonymity-first mental-health app (iOS &amp; Android) helping people name feelings they can't yet put into words. `React Native` `TypeScript` `.....`
-- 🚦 **MoveIQ** - crowdsourced commute app covering Lagos *danfo*/BRT &amp; expressway routes big map apps miss. `React Native` `Expo`, `ExpressJS`'
-- 🎓 **KTU SRC App** - one direct channel connecting the Student Representative Council with the student body. `React Native`, `....`
-- 🛒 **E-commerce REST API** - full shopping backend with products, carts, orders &amp; secure auth. `Java` `Spring Boot` `PostgreSQL`, `Stripe`
-
-<br>
-
-### 🏆 &nbsp;HIGHLIGHTS
-
-- 🥇 Best Graduating Student, TechCrush Mobile App Bootcamp (Cohort 5)
-- 🧠 Co-founded Xolace, taking it from idea to a live mental-health platform
-- 🎯 Known for pixel-accurate UI and smooth, native-feeling React Native animations
-
-<br>
-
 ### ✨ &nbsp;A BIT MORE ABOUT ME
 
 - 👨‍💻 Co-Founder &amp; Lead Engineer @ [Xolace](https://xolaceinc.com), building a mental-health platform from the ground up
 
-- 👯 I'm looking to collaborate on mobile apps with real social impact - React Native, Expo, Next.js, Spring Boot
+- 🥇 Best Graduating Student, TechCrush Mobile App Bootcamp (Cohort 5)
 
 - 🌱 Currently leveling up React Native gestures &amp; animation, and Spring Boot architecture
 
-- 💬 Ask me about **React Native, Expo, TypeScript, or shipping an app from 0 → App Store**
-
-- 📫 How to reach me **emmsom506@gmail.com**
+- 🎯 Known for pixel-accurate UI and smooth, native-feeling React Native animations
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -100,5 +81,5 @@
 </p>
 
 <p align="center">
-  <sub>👨🏾‍💻 <b>TheDuo</b> — You'll always want me on your team · © 2026 Emmanuel Somuah</sub>
+  <sub>👨🏾‍💻 <b>TheDuo</b> - You'll always want me on your team · © 2026 Emmanuel Somuah</sub>
 </p>
